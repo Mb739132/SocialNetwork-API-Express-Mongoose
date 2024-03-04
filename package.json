@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/Mb739132/SocialNetwork-API-Express-Mongoose#readme",
   "dependencies": {
-    "express": "^4.18.2",
-    "mongoose": "^8.1.1"
+    "express": "^4.18.3",
+    "moment": "^2.30.1",
+    "mongoose": "^8.2.0"
   }
 }
