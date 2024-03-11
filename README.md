@@ -1,4 +1,4 @@
-# NoSQL: Social Network API
+# SocialNetwork-API-Express-Mongoose
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@
 
 ## Description:
 
-It's an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.
+A robust Express.js API for a social network web application, enabling users to share thoughts, react to friends' thoughts, and manage friend lists with MongoDB and Mongoose integration.
 
 ## Technology:
 
@@ -55,11 +55,11 @@ This project is licensed under MIT, for more information please visit [this webs
 
 ## Contribution
 
-Made by Wenwen Tian
+Mariatu Bah 
 
 ## Questions?
 
 Please feel free to contact me if you need any further information:
 
-- [Email](mailto:wwtian9@gmail.com)
-- [Github Profile](https://github.com/joce1ynn)
+- [Email](mailto:mariatu.bah46@gmail.com)
+- [Github Profile](https://github.com/Mb739132)
