@@ -42,7 +42,7 @@ npm start
 
 #### Walkthrough Video
 
-[Click me to see the demo video!]()
+[Click me to see the demo video!]() 
 
 #### Insomnia Screenshot
 
