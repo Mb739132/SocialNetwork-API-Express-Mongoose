@@ -1,24 +1,25 @@
 {
-  "name": "socialnetwork-api-express-mongoose",
+  "name": "hw18-social-network-api",
   "version": "1.0.0",
-  "description": "A robust Express.js API for a social network web application, enabling users to share thoughts, react to friends' thoughts, and manage friend lists with MongoDB and Mongoose integration.",
-  "main": "app.js",
+  "description": "## Table of Contents",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mb739132/SocialNetwork-API-Express-Mongoose.git"
+    "url": "git+https://github.com/joce1ynn/social-network-API-NoSQL.git"
   },
-  "author": "Mariatu Bah",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Mb739132/SocialNetwork-API-Express-Mongoose/issues"
+    "url": "https://github.com/joce1ynn/social-network-API-NoSQL/issues"
   },
-  "homepage": "https://github.com/Mb739132/SocialNetwork-API-Express-Mongoose#readme",
+  "homepage": "https://github.com/joce1ynn/social-network-API-NoSQL#readme",
   "dependencies": {
-    "express": "^4.18.3",
-    "moment": "^2.30.1",
-    "mongoose": "^8.2.0"
+    "express": "^4.17.3",
+    "mongoose": "^6.2.9"
   }
 }
